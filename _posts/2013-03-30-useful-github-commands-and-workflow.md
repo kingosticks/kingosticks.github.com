@@ -15,7 +15,8 @@ tags : [github, mopidy, python, commands]
     ```git remote add upstream git://github.com/mopidy/mopidy.git```
 
 * Update my local repo to most recent upstream (```mopidy/mopidy```) version:
-   ```git pull upstream develop```
+   
+    ```git pull upstream develop```
 
 * Push changes in my local repo to my forked repo (```kingosticks/mopidy```):
 
